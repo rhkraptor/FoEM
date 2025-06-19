@@ -31,7 +31,7 @@ Some evaluation metric values presented in this report may slightly differ from 
 - Python (NumPy, pandas, matplotlib, seaborn, statsmodels)
 - Facebook Prophet, TensorFlow/Keras
 - Jupyter Notebooks
-- GitHub Actions for CI
+
 ---
 
 ## Final Report
@@ -42,7 +42,7 @@ The final academic report includes:
 - Evaluation tables and visual insights
 - Critical reflection on model performance
 
-> [Download Full Report (PDF)](https://github.com/rhkraptor/FoEM)
+> [Download Full Report (PDF)](https://github.com/rhkraptor/FoEM/SS25_FOEM_FinalPaper_Hussnain_Khalil.pdf)
 
 ---
 
@@ -51,9 +51,9 @@ The final academic report includes:
 **Hussnain Khalil**  
 4th Semester B.Eng. Data Science in Engineering and Management  
 Technische Hochschule Ingolstadt  
-🔗 [LinkedIn](https://www.linkedin.com/in/hussnain-khalil)  
-📧 huk7464@thi.de  
-🌐 [GitHub](https://github.com/rhkraptor)
+ [LinkedIn](https://www.linkedin.com/in/hussnain-khalil)  
+ huk7464@thi.de  
+ [GitHub](https://github.com/rhkraptor)
 
 ---
 
