@@ -42,7 +42,7 @@ The final academic report includes:
 - Evaluation tables and visual insights
 - Critical reflection on model performance
 
-> [Download Full Report (PDF)](https://github.com/rhkraptor/FoEM/SS25_FOEM_FinalPaper_Hussnain_Khalil.pdf)
+> [Download Full Report (PDF)](https://github.com/rhkraptor/FoEM/blob/main/SS25_FOEM_FinalPaper_Hussnain_Khalil.pdf)
 
 ---
 
